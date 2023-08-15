@@ -36,11 +36,18 @@ npm install @react-navigation/native-stack
 - [Async Storage: Docs](https://react-native-async-storage.github.io/async-storage/docs/install/)
 - [React Navigation: Docs](https://reactnavigation.org/docs/getting-started)
 
+## ✅ Download API Back-End
+<h2 align="center">
+    <a href="https://github.com/aluiziodeveloper/api-node-devprofile">Api Node JS 🌐</a>
+</h2>
+
 
 ## 🎁 Project Images 
 <p align="center">
-  <img src="assets/images/img-1.jpg" alt="accessibility 1" style="margin: 10px; width: 30%;">
-  <img src="assets/images/img-2.jpg" alt="accessibility 2" style="margin: 10px; width: 30%;">
-  <img src="assets/images/img-3.jpg" alt="accessibility 3" style="margin: 10px; width: 30%; padding: 500px;">
+  <img src="assets/img1.jpeg" alt="accessibility 1" style="margin: 10px; width: 30%; padding: 10px;">
+  <img src="assets/img2.jpeg" alt="accessibility 2" style="margin: 10px; width: 30%;">
+  <img src="assets/img3.jpeg" alt="accessibility 3" style="margin: 10px; width: 30%;">
+  <img src="assets/img4.jpeg" alt="accessibility 3" style="margin: 10px; width: 30%;">
+  <img src="assets/img5.jpeg" alt="accessibility 3" style="margin: 10px; width: 30%;">
 </p>
 
